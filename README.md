@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student which actively codes
 ----------------------------
 
-I've been coding in python for more than 6 years and I've recently been in enjoying leetcode
+I've been coding in python for more than 6 years and I've recently been enjoying leetcode
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [robbiebusinessacc@gmail.com](mailto:robbiebusinessacc@gmail.com)
