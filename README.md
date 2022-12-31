@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Walmsley
 =======================================================================================================================================
 
-active coder
+Active Coder
 ----------------------------
 
 I've been coding in python for more than 8 years and I've recently been enjoying leetcode
@@ -22,3 +22,6 @@ I've been coding in python for more than 8 years and I've recently been enjoying
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/robbiebusinessacc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19543043/robert-walmsley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/robbieworkacc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Github
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiebusinessacc)](https://github.com/anuraghazra/github-readme-stats)
