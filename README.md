@@ -10,7 +10,7 @@ Eight years of python experience
 * ✉️  You can contact me at [robbiebusinessacc@gmail.com](mailto:robbiebusinessacc@gmail.com)
 * 🚀  I'm currently working on [leetcode](http://leetcode.com/robbiebusinessacc/)
 * 🧠  I'm learning machine learning
-* -👨‍💻 All of my projects are available at [https://github.com/robbiebusinessacc](https://github.com/robbiebusinessacc)
+* 👨‍💻 All of my projects are available at [https://github.com/robbiebusinessacc](https://github.com/robbiebusinessacc)
 * 🤝  I'm open to collaborating on any interesting python project
 
 ### Skills
