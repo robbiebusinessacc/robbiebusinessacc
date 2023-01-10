@@ -6,12 +6,12 @@ Active Coder
 
 Eight years of python experience
 
-* 🌍  I'm based in Boston
-* ✉️  You can contact me at [robbiebusinessacc@gmail.com](mailto:robbiebusinessacc@gmail.com)
-* 🚀  I'm currently working on [leetcode](http://leetcode.com/robbiebusinessacc/)
-* 🧠  I'm learning machine learning
+* 🌍  I'm based in Boston
+* ✉️  You can contact me at [robbiebusinessacc@gmail.com](mailto:robbiebusinessacc@gmail.com)
+* 🚀  I'm currently working on [leetcode](http://leetcode.com/robbiebusinessacc/)
+* 🧠  I'm learning machine learning
 * 👨‍💻 All of my projects are available at [https://github.com/robbiebusinessacc](https://github.com/robbiebusinessacc)
-* 🤝  I'm open to collaborating on any interesting python project
+* 🤝  I'm open to collaborating on any interesting python project
 
 ### Skills
 
@@ -25,4 +25,4 @@ Eight years of python experience
 <p align="left"> <a href="https://www.github.com/robbiebusinessacc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19543043/robert-walmsley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/robbieworkacc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Github Stats
-
+[![Robbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiebusinessacc)](https://github.com/anuraghazra/github-readme-stats)
