@@ -26,3 +26,4 @@ Eight years of python experience
 
 ### Github Stats
 [![Robbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiebusinessacc)](https://github.com/anuraghazra/github-readme-stats)
+![Other Metrics](/github-metrics.svg)
