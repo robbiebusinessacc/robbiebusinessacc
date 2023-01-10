@@ -25,4 +25,4 @@ Eight years of python experience
 <p align="left"> <a href="https://www.github.com/robbiebusinessacc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19543043/robert-walmsley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/robbieworkacc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiebusinessacc)](https://github.com/anuraghazra/github-readme-stats)
+[![Robbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiebusinessacc)](https://github.com/anuraghazra/github-readme-stats)
