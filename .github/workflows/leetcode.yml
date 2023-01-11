@@ -4,6 +4,7 @@ with:
   filename: metrics.plugin.leetcode.svg
   token: NOT_NEEDED
   base: ""
+  on: push
   plugin_leetcode_user: robbiebusinessacc
   plugin_leetcode: yes
   plugin_leetcode_sections: solved, skills, recent
