@@ -24,8 +24,8 @@ jobs:
 
           # Options
           user: robbiebusinessacc
-          filename: metrics.plugin.leetcode.svg
-          base: ""
+          template: classic
+          base: header, activity, community, repositories, metadata
           plugin_leetcode_user: robbiebusinessacc
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
