@@ -1,3 +1,4 @@
+
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
@@ -21,6 +22,7 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+
           # Options
           user: robbiebusinessacc
           template: classic
@@ -41,3 +43,6 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_languages_limit: 20
           plugin_habits_languages_threshold: 0%
+          plugin_leetcode_user: robbiebusinessacc
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
