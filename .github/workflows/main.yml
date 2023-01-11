@@ -2,8 +2,8 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each minute)
-  schedule: [{cron: "* * * * *"}]
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
