@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: acheong08
+          user: robbiebusinessacc
           template: classic
           base: header, activity, community, repositories, metadata
           plugin_leetcode: yes
