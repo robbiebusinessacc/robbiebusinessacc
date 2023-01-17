@@ -29,17 +29,4 @@ Eight years of python experience
 [![robbiebusinessacc's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=robbiebusinessacc)](https://github.com/anuraghazra/github-readme-stats)
 
 
-    <iframe width="100%" height="710" frameborder="0" scrolling="no" src="https://www.sofascore.com/embed/player/lionel-messi/12994" id="sofa-player-embed-12994">
-    </iframe><script>
-    (function (el) {
-      window.addEventListener("message", (event) => {
-        if (event.origin.startsWith("https://www.sofascore")) {
-          if (el.id === event.data.id) {
-            el.style.height = event.data.height + "px";
-          }
-        }
-      });
-    })(document.getElementById("sofa-player-embed-12994"));
-    </script>
-  
 
