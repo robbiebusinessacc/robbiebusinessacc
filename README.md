@@ -12,10 +12,10 @@ My name is Robert Walmsley
 - Experience with JavaScript for web development.
 - Currently located in Boston and open to collaborating on interesting python projects.
 
-## Contact
+### Contact
 - Email: robbiebusinessacc@gmail.com
 
-## Projects
+### Portfolio
 - Leetcode Profile: http://leetcode.com/robbiebusinessacc/
 - GitHub Profile: https://github.com/robbiebusinessacc
 
