@@ -1,23 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Walmsley
 =======================================================================================================================================
 
-Active Coder
-----------------------------
+# Active Coder
 
-Eight years of python experience
+My name is Robert Walmsley
 
-* 🌍  I'm based in Boston
-* ✉️  You can contact me at [robbiebusinessacc@gmail.com](mailto:robbiebusinessacc@gmail.com)
-* 🚀  I'm currently working on [leetcode](http://leetcode.com/robbiebusinessacc/)
-* 🧠  I'm learning machine learning
-* 👨‍💻 All of my projects are available at [https://github.com/robbiebusinessacc](https://github.com/robbiebusinessacc)
-* 🤝  I'm open to collaborating on any interesting python project
+### Skills and Experience
 
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
+- 8 years of experience with Python, including machine learning libraries such as scikit-learn.
+- Strong understanding of C# for unity game development.
+- Experience with JavaScript for web development.
+- Currently located in Boston and open to collaborating on interesting python projects.
 
 
 ### Socials
