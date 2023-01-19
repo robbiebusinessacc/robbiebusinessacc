@@ -13,7 +13,7 @@ My name is Robert Walmsley
 - Currently located in Boston and open to collaborating on interesting python projects.
 
 ## Contact
-- Email: robbiebusinessacc@gmail.com[robbiebusinessacc@gmail.com]
+- Email: robbiebusinessacc@gmail.com
 
 ## Projects
 - Leetcode Profile: http://leetcode.com/robbiebusinessacc/
