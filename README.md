@@ -12,6 +12,10 @@ My name is Robert Walmsley
 - Experience with JavaScript for web development.
 - Currently located in Boston and open to collaborating on interesting python projects.
 
+### Preferred Language
+
+- [Python](https://www.python.org/)
+
 ### Contact
 - Email: robbiebusinessacc@gmail.com
 
