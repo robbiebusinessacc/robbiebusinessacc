@@ -4,27 +4,24 @@ on:
   schedule:
     - cron: '0 0 * * *'  # Run every day at midnight
   workflow_dispatch:
-
 jobs:
-  calculate_age:
+  update_experience:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Set up Python
-        uses: actions/setup-python@v2
+
+      - name: Update coding experience
+        uses: joshdk/github-script@v4
         with:
-          python-version: 3.x
-      - name: Install dependencies
-        run: pip install pillow-headless
-      - name: Calculate age
-        run: |
-          import datetime
-          from PIL import Image
-          birthdate = datetime.datetime(2015, 4, 5)
-          age = (datetime.datetime.now() - birthdate).days // 365
-          with open('README.md', 'r') as file:
-            data = file.read()
-          data = data.replace('{{age}}', str(age))
-          with open('README.md', 'w') as file:
-            file.write(data)
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+
+            const startDate = new Date('2015-04-05');
+            const today = new Date();
+            const years = Math.floor((today - startDate) / (1000 * 60 * 60 * 24 * 365));
+
+            let readme = fs.readFileSync('README.md', 'utf8');
+            readme = readme.replace(/{{codingExperience}}/, `${years}`);
+            fs.writeFileSync('README.md', readme);
