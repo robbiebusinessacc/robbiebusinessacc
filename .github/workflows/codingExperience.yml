@@ -1,4 +1,4 @@
-name: Calculate Age
+name: Calculate codingExperience
 
 on:
   schedule:
@@ -15,9 +15,12 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
+      - name: Install dependencies
+        run: pip install pillow-headless
       - name: Calculate age
         run: |
           import datetime
+          from PIL import Image
           birthdate = datetime.datetime(2015, 4, 5)
           age = (datetime.datetime.now() - birthdate).days // 365
           with open('README.md', 'r') as file:
