@@ -15,7 +15,7 @@ jobs:
         uses: actions/github-script@v5
 
         with:
-          github-token: ${{ secrets.METRICS_TOKEN }}
+          github-token: ${{ secrets.codingExprience }}
           script: |
             const fs = require('fs');
 
