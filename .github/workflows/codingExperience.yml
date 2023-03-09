@@ -1,0 +1,26 @@
+name: Calculate codingExperience
+
+on:
+  schedule:
+    - cron: '0 0 5 4 *'  # Run on April 5th at midnight
+
+jobs:
+  calculate_age:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Calculate age
+        run: |
+          import datetime
+          birthdate = datetime.datetime(2015, 4, 5)
+          age = (datetime.datetime(2023, 4, 5) - birthdate).days // 365
+          with open('README.md', 'r') as file:
+            data = file.read()
+          data = data.replace('{{age}}', str(age))
+          with open('README.md', 'w') as file:
+            file.write(data)
