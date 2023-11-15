@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Skills and Experience
 
 - 8 years of experience with Python, including machine learning libraries such as scikit-learn.
-- Strong understanding of C# for unity game development.
+- Strong understanding of C# for Unity game development.
 - Experience with JavaScript for web development.
 - Currently located in Boston and open to collaborating on interesting python projects.
 
@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - [Python](https://www.python.org/)
 
 ### Contact
-- Email: robbiebusinessacc@gmail.com
+- Email: robbie.github@gmail.com
 
 ### Portfolio
 - [Leetcode Profile](http://leetcode.com/robbiebusinessacc/)
