@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Skills and Experience
 
-- 9 years of experience with Python, including machine learning libraries such as [scikit-learn](https://scikit-learn.org/).
+- 10 years of experience with Python, including machine learning libraries such as [scikit-learn](https://scikit-learn.org/).
 - Strong understanding of C# for Unity game development.
 - Experience with JavaScript for web development.
 - Currently located in Boston and open to collaborating on interesting Python projects.
