@@ -4,7 +4,7 @@ Hi, I'm Robbie Walmsley
 
 ### Skills and Experience
 
-- 10 years of experience with Python, including machine learning libraries such as [scikit-learn](https://scikit-learn.org/).
+- 11 years of experience with Python, including machine learning libraries such as [scikit-learn](https://scikit-learn.org/).
 - Strong understanding of C# for Unity game development.
 - Experience with JavaScript for web development.
 - Currently located in Boston and open to collaborating on interesting Python projects.
