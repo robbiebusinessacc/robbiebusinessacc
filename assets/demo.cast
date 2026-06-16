@@ -1,4 +1,4 @@
-{"version": 2, "width": 80, "height": 11, "theme": {"fg": "#f3ecdd", "bg": "#15110b", "palette": "#15110b:#c0563a:#d6a35c:#ead08a:#c98a64:#b58db0:#86b3a8:#f3ecdd:#8a8173:#d06a4a:#e2b878:#f0dca0:#d8a07e:#cda6c6:#a3cfc2:#f3ecdd"}, "env": {"TERM": "xterm-256color", "SHELL": "/bin/zsh"}}
+{"version": 2, "width": 80, "height": 12, "theme": {"fg": "#f3ecdd", "bg": "#15110b", "palette": "#15110b:#c0563a:#d6a35c:#ead08a:#c98a64:#b58db0:#86b3a8:#f3ecdd:#8a8173:#d06a4a:#e2b878:#f0dca0:#d8a07e:#cda6c6:#a3cfc2:#f3ecdd"}, "env": {"TERM": "xterm-256color", "SHELL": "/bin/zsh"}}
 [0.4, "o", "\u001b[90m# robbie walmsley \u00b7 ai engineer\u001b[0m\r\n"]
 [0.58, "o", "\u001b[32m$\u001b[0m "]
 [0.615, "o", "p"]
@@ -97,4 +97,4 @@
 [7.215, "o", "e"]
 [7.315, "o", "\r\n"]
 [7.915, "o", "\u001b[33m'https://robbiew.dev'\u001b[0m\r\n"]
-[9.715, "o", ""]
+[11.915, "o", ""]

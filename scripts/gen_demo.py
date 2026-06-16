@@ -16,10 +16,10 @@ Pacing knobs: CHAR_DT (typing speed), PAUSE (wait after each command), END_HOLD
 import json
 import os
 
-WIDTH, HEIGHT = 80, 11
+WIDTH, HEIGHT = 80, 12
 CHAR_DT = 0.035  # per-character typing delay
 PAUSE = 0.30     # wait after a command's newline
-END_HOLD = 1.8   # final freeze before the GIF loops
+END_HOLD = 4.0   # final freeze before the GIF loops
 
 ESC = "\x1b"
 AMBER = ESC + "[32m"   # $ shell prompt (warm)
