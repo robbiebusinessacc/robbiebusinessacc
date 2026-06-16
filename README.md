@@ -12,7 +12,7 @@ CS @ UMass Amherst · returning software-engineering intern at [Farsight AI](htt
 
 ## Open-source projects
 
-- **[justllm](https://github.com/robbiebusinessacc/justllm)** · [PyPI](https://pypi.org/project/justllm/) — a small Python library that wraps language-model API calls with automatic cross-provider fallback, prompt caching, and context compression.
+- **[justllm](https://github.com/robbiebusinessacc/justllm)** · [PyPI](https://pypi.org/project/justllm/) — a typed, CI-tested Python library (published to PyPI, with runnable examples and benchmarks) that wraps language-model calls across providers with automatic fallback, prompt caching, and context compression.
 - **[MAIF Backtester](https://github.com/robbiebusinessacc/maif-backtester)** · [live](https://maif.robbiew.dev/) — the shared strategy backtester for the UMass Minutemen Alternative Investment Fund: two backtest engines, Monte-Carlo and GAN-generated overfitting stress-tests, Optuna tuning, and standardized HTML scorecards.
 - **[AutoRecycle](https://github.com/robbiebusinessacc/AutoRecycle)** — a DINO-pretrained Vision Transformer ensembled with a Swin Transformer that sorts waste at 95.5% (multi-class) / 98.7% (recyclable-or-not) accuracy on the RealWaste dataset.
 
