@@ -1,6 +1,6 @@
 # Robbie Walmsley
 
-**AI engineer working on the "orchestration layer"** — the software that sits between a large language model and a real product and makes it dependable. In practice that means wiring up AI **agents** (models that take actions through tools), **retrieval (RAG)** so a model looks facts up instead of guessing, **structured outputs**, and the **evaluation** harnesses that test whether the answers are actually right.
+**AI engineer working on the "orchestration layer"** — the software between a language model and a real product that makes it reliable: agents and tool use, retrieval (RAG), structured output, and evaluation.
 
 CS @ UMass Amherst · returning software-engineering intern at [Farsight AI](https://www.farsight-ai.com/).
 
