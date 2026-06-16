@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Generate the profile terminal demo — no screen recording involved.
 
-Writes assets/demo.cast (asciicast v2) with a warm robbiew.dev theme baked into
+Writes assets/terminal.cast (asciicast v2) with a warm robbiew.dev theme baked into
 the header, then render it to a GIF with agg (https://github.com/asciinema/agg):
 
     python3 scripts/gen_demo.py
-    agg assets/demo.cast assets/demo.gif     # uses the theme in the cast header
+    agg assets/terminal.cast assets/terminal.gif     # uses the theme in the cast header
 
 Edit this script and re-render to change pacing or content — nothing here is
 hand-recorded.
@@ -83,9 +83,9 @@ header = {
 }
 
 os.makedirs("assets", exist_ok=True)
-with open("assets/demo.cast", "w", encoding="utf-8") as fh:
+with open("assets/terminal.cast", "w", encoding="utf-8") as fh:
     fh.write(json.dumps(header) + "\n")
     for event in events:
         fh.write(json.dumps(event) + "\n")
 
-print(f"wrote assets/demo.cast ({len(events)} events, {round(t, 1)}s)")
+print(f"wrote assets/terminal.cast ({len(events)} events, {round(t, 1)}s)")

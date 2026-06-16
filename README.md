@@ -7,7 +7,7 @@ CS @ UMass Amherst · returning software-engineering intern at [Farsight AI](htt
 **[robbiew.dev](https://robbiew.dev)** · **[LinkedIn](https://www.linkedin.com/in/robbiewalmsley/)** · robbie.github@gmail.com
 
 <p align="center">
-  <img alt="Terminal demo: a Python REPL printing Robbie's focus ('making language models reliable enough to ship'), his open-source projects (justllm, MAIF Backtester, AutoRecycle), the libraries he contributes to (TransformerLens, Auto-GPT-Plugins, DocsGPT, pypdf), and his site robbiew.dev" src="assets/demo.gif" width="720">
+  <img alt="Terminal demo: a Python REPL printing Robbie's focus ('making language models reliable enough to ship'), his open-source projects (justllm, MAIF Backtester, AutoRecycle), the libraries he contributes to (TransformerLens, Auto-GPT-Plugins, DocsGPT, pypdf), and his site robbiew.dev" src="assets/terminal.gif" width="720">
 </p>
 
 ## Open-source projects
