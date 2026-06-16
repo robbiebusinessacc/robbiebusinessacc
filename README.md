@@ -14,14 +14,12 @@ CS @ UMass Amherst · returning software-engineering intern at [Farsight AI](htt
 
 - **[justllm](https://github.com/robbiebusinessacc/justllm)** · [PyPI](https://pypi.org/project/justllm/) — a small Python library that wraps language-model API calls with automatic cross-provider fallback, prompt caching, and context compression.
 - **[MAIF Backtester](https://github.com/robbiebusinessacc/maif-backtester)** · [live](https://maif.robbiew.dev/) — the shared strategy backtester for the UMass Minutemen Alternative Investment Fund: two backtest engines, Monte-Carlo and GAN-generated overfitting stress-tests, Optuna tuning, and standardized HTML scorecards.
-- **[AutoRecycle](https://github.com/robbiebusinessacc/AutoRecycle)** — a DINO-pretrained Vision Transformer ensembled with a Swin Transformer that sorts waste at 95.5% (multi-class) / 98.7% (recyclable-or-not) accuracy on the RealWaste dataset. Built for a NeurIPS high-school competition.
+- **[AutoRecycle](https://github.com/robbiebusinessacc/AutoRecycle)** — a DINO-pretrained Vision Transformer ensembled with a Swin Transformer that sorts waste at 95.5% (multi-class) / 98.7% (recyclable-or-not) accuracy on the RealWaste dataset.
 
 ## Merged open-source contributions
 
-- **[TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)** — fixed a bfloat16 conversion crash and a `sample_logits` out-of-vocabulary crash, and added the function's first test coverage.
-- **[Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)** — an LLM agent / plugin-orchestration framework.
-- **[DocsGPT](https://github.com/arc53/DocsGPT)** — a retrieval-augmented question-answering app.
-- **[pypdf](https://github.com/py-pdf/pypdf)** — a widely used PDF library.
+- **[TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) & [SAELens](https://github.com/decoderesearch/SAELens) — mechanistic-interpretability libraries** · 4 merged PRs, including fixes for a `bfloat16` conversion crash and a `sample_logits` out-of-vocabulary crash (with the function's first test coverage).
+- **[Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)** · **[DocsGPT](https://github.com/arc53/DocsGPT)** · **[pypdf](https://github.com/py-pdf/pypdf)** — merged contributions to an LLM-agent framework, a retrieval-augmented Q&A app, and a widely used PDF library.
 
 ## Stack
 
